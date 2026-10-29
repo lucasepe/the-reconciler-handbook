@@ -1,4 +1,4 @@
-# The Reconciler's Handbook — Companion Code
+# The Reconciler's Handbook Companion Code
 
 Executable examples for *The Reconciler's Handbook: Designing, Reviewing, and
 Owning Kubernetes Controllers* by Luca Sepe.
