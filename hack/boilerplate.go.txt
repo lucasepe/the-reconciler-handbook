@@ -1,0 +1,6 @@
+/*
+Copyright (c) YEAR Luca Sepe
+
+SPDX-License-Identifier: MIT
+See the LICENSE file in the project root for the full license text.
+*/

@@ -1,0 +1,12 @@
+apiVersion: data.example.io/v1alpha1
+kind: ManagedDatabase
+metadata:
+  labels:
+    app.kubernetes.io/name: reconciler-handbook
+    app.kubernetes.io/managed-by: kustomize
+  name: orders
+spec:
+  deletionPolicy: Delete
+  engine: postgres
+  size: small
+  region: eu-west
